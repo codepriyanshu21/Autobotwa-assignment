@@ -46,7 +46,7 @@ Some components in this project were built using Vercel v0, a tool for rapid UI 
 
 ## Live Link
 
-[[Add live link here](https://autobotwa-assignment-three.vercel.app)]
+[[https://autobotwa-assignment-three.vercel.app](https://autobotwa-assignment-three.vercel.app)]
 
 ## Contributing
 
