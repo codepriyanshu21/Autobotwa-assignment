@@ -40,13 +40,13 @@ A modern crypto vault application built with Next.js, designed to provide secure
 ## Short Notes on Vercel v0 Usage
 
 Some components in this project were built using Vercel v0, a tool for rapid UI prototyping. Specifically:
-- The pricing card component was generated using v0 for quick design iteration.
+- The pricing card and trading card component were generated using v0 for quick design iteration.
 - Other parts of the application were custom-built to ensure full control and customization.
 - Using v0 helped balance rapid design iteration with custom, hand-crafted components, resulting in a clean and professional landing page.
 
 ## Live Link
 
-[Add live link here]
+[[Add live link here](https://autobotwa-assignment-three.vercel.app)]
 
 ## Contributing
 
